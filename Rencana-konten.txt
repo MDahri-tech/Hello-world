@@ -1,3 +1,5 @@
-RENCANA KONTEN SELANJUTNYA DI MDahri-tech
--Belajar Bahasa Pemrograman
--Membuat Program sederhana
+RENCANA KONTEN SELANJUTNYA DI MDahri-tech:
+- Belajar Bahasa Pemrograman
+- Membuat Program sederhana
+- Video Tutorial
+- Video Tips & Trik
